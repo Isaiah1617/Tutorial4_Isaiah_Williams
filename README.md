@@ -1,2 +1,2 @@
 # Tutorial4_Isaiah_Williams
-Isaiah Williams and Ronon Stephens
+Tutorial 4 — Git collaboration. Collaborator: Ronon Stephens
